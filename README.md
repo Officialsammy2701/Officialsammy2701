@@ -60,7 +60,7 @@ I focus on creating responsive interfaces, functional systems, and improving how
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Officialsammy2701&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Officialsammy2701&layout=compact&theme=github_dark&hide_border=true" />
-  <br />
+  <br>
   <img width="100%" src="https://streak-stats.demolab.com?user=Officialsammy2701&theme=github-dark&hide_border=true" />
 </p>
 
@@ -68,5 +68,5 @@ I focus on creating responsive interfaces, functional systems, and improving how
 
 ## Connect
 
-🔹 LinkedIn: [*Let's Connect!*](https://www.linkedin.com/in/ismail-akande/)
+🔹 LinkedIn: [*Let's Connect!*](https://www.linkedin.com/in/ismail-akande/) <br>
 🔹 Email: [Email](hello.ismailstudio@gmail.com)
