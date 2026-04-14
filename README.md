@@ -58,10 +58,12 @@ I focus on creating responsive interfaces, functional systems, and improving how
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Officialsammy2701&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Officialsammy2701&layout=compact&theme=github_dark&hide_border=true" />
-  <br>
-  <img width="100%" src="https://streak-stats.demolab.com?user=Officialsammy2701&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Officialsammy2701&show_icons=true&theme=github_dark&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Officialsammy2701&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</p>
+
+<p align = "center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Officialsammy2701&theme=github-dark&hide_border=true" />
 </p>
 
 ---
