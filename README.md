@@ -64,7 +64,7 @@ I focus on creating responsive interfaces, functional systems, and improving how
 </p>
 
 <p align = "center">
-  <img src="https://streak-stats.demolab.com?user=Officialsammy2701&theme=github-dark&hide_border=true" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=Officialsammy2701&theme=github-dark&hide_border=true" width="80%" />
 </p>
 
 ---
