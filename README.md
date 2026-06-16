@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ismail Akande 👋</h1>
 
 <p align="center">
-  Aspiring Software Engineer • Frontend / Full Stack
+  CS Student @ UPEI | Full-Stack Developer (MERN Stack, Python, SQL) | Incoming Software Engineering Intern
 </p>
 
 <p align="center">
